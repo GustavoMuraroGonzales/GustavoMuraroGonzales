@@ -18,6 +18,8 @@
   <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
 
+<hr>
+
 ### Técnologias em Aprendizado 🖥️🚀
 <div style="display: inline_block"><br/>
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
