@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gustavo Gonzales 🖐🏼
+# Olá! Eu sou o Gustavo Gonzales 🖐🏼
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavogonzalesdev/)
@@ -6,3 +6,5 @@
 
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMuraroGonzales&show_icons=true&theme=tokyonight)
+
+###Técnologias que mais uso no meu Dia a Dia 💻
